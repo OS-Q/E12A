@@ -1,7 +1,7 @@
 {
-	"name": "N12",
-	"description": "Native N12 for LGT8F",
+	"name": "E12A",
+	"description": "Native E12A for LGT8F",
 	"system": "*",
-	"url": "https://github.com/OS-Q/N12",
+	"url": "https://github.com/OS-Q/E12A",
 	"version": "0.0.1"
 }
